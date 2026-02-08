@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omrigl 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cursor and working with LLMs
 
 
 <!---
